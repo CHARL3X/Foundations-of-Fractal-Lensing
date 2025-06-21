@@ -1,4 +1,3 @@
-# Foundations-of-Fractal-Lensing
 # Fractal-Lensing-Methodolgy
 # 🧠 Fractal Lenses: A Working Doctrine for Multi-Zoom AI Thinking
 
